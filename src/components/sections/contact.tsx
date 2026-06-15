@@ -15,13 +15,13 @@ const links = [
   },
   {
     label: "LinkedIn",
-    value: "linkedin.com/in/alex-sharma-rwe",
+    value: "https://www.linkedin.com/in/mohan-pujari/",
     href: profile.linkedin,
     icon: Link2,
   },
   {
     label: "GitHub",
-    value: "github.com/alex-sharma-rwe",
+    value: "https://github.com/mohanrockz",
     href: profile.github,
     icon: Code2,
   },
