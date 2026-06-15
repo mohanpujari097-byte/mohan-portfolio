@@ -4,11 +4,11 @@ export const profile = {
   tagline:
     "Turning 50M+ patient records into feasibility answers, treatment-pattern insight, and decisions that move studies forward.",
   location: "Remote · U.S. Healthcare Analytics",
-  email: "alex.sharma.analytics@example.com",
+  email: "mohanpujari8050@gmail.com",
   linkedin: "https://www.linkedin.com/in/mohan-pujari/",
   github: "https://github.com/mohanrockz",
   resumeUrl: "/Mohan_Pujari_Resume.pdf",
-  yearsExperience: 3.8,
+  yearsExperience: 3.9,
   recordsAnalyzed: "50M+",
 };
 
