@@ -119,7 +119,7 @@ export const experience = [
   {
     role: "Business Analyst — Claims & Data Analytics",
     company: "Healthcare Data Analytics Group",
-    period: "2021 — 2023",
+    period: "2022 — 2023",
     location: "Remote (U.S. Healthcare)",
     points: [
       "Analyzed patient-level data across 50M+ records in Snowflake and SQL to support observational study design and ad-hoc client requests.",
@@ -176,23 +176,14 @@ export const projects = [
 ];
 
 export const certifications = [
-  {
-    title: "SAS Certified Specialist — Base Programming Using SAS 9.4",
-    issuer: "SAS Institute",
-    year: "2022",
-  },
+ 
   {
     title: "Google Cloud — BigQuery for Data Analysts",
     issuer: "Google Cloud Skills Boost",
     year: "2023",
   },
   {
-    title: "SnowPro Core Certification",
-    issuer: "Snowflake",
-    year: "2023",
-  },
-  {
-    title: "Microsoft Power BI Data Analyst Associate",
+    title: "Microsoft Power BI Data Analyst -  Udemy",
     issuer: "Microsoft",
     year: "2022",
   },
@@ -200,16 +191,16 @@ export const certifications = [
 
 export const education = [
   {
-    degree: "M.S. in Health Informatics / Healthcare Analytics",
-    school: "University Graduate Program",
-    period: "2019 — 2021",
-    notes: "Focus on healthcare data systems, claims data structures, and biostatistics.",
+    degree: "Master in Computer Applications",
+    school: "RV College of Engineering, Banglore",
+    period: "2020 — 2022",
+    notes: "Focus on all technologies - front-end/ backend/ SQL / data managment",
   },
   {
-    degree: "B.S. in Statistics / Life Sciences",
-    school: "Undergraduate Institution",
-    period: "2015 — 2019",
-    notes: "Foundation in statistical methods, research design, and data analysis.",
+    degree: "BSc in Computer Science",
+    school: "Appa college of Science",
+    period: "2017 — 2020",
+    notes: "Foundation in statistical methods, and data analysis.",
   },
 ];
 
