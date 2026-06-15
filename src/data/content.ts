@@ -1,14 +1,14 @@
 export const profile = {
-  name: "Alex Sharma",
+  name: "Mohan Pujari",
   role: "Senior Business Analyst — Healthcare Analytics & RWE",
   tagline:
     "Turning 50M+ patient records into feasibility answers, treatment-pattern insight, and decisions that move studies forward.",
   location: "Remote · U.S. Healthcare Analytics",
   email: "alex.sharma.analytics@example.com",
-  linkedin: "https://linkedin.com/in/alex-sharma-rwe",
-  github: "https://github.com/alex-sharma-rwe",
-  resumeUrl: "/Alex_Sharma_Resume.pdf",
-  yearsExperience: 3,
+  linkedin: "https://www.linkedin.com/in/mohan-pujari/",
+  github: "https://github.com/mohanrockz",
+  resumeUrl: "/Mohan_Pujari_Resume.pdf",
+  yearsExperience: 3.8,
   recordsAnalyzed: "50M+",
 };
 
